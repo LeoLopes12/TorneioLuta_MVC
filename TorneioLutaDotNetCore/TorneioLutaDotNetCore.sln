@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorneioLutaDotNetCore", "TorneioLutaDotNetCore\TorneioLutaDotNetCore.csproj", "{4350C546-A64F-440F-910D-DE49871C714F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4350C546-A64F-440F-910D-DE49871C714F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4350C546-A64F-440F-910D-DE49871C714F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4350C546-A64F-440F-910D-DE49871C714F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4350C546-A64F-440F-910D-DE49871C714F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D203467D-9F61-4288-881A-E152912066F0}
+	EndGlobalSection
+EndGlobal
